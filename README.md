@@ -16,9 +16,8 @@ https://drive.google.com/file/d/16UdHGC3X0eZ8gDn9ZJirS9YxukFV769p/view?usp=shari
 # 📱 Application Screenshot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ace9341-664c-421e-bbf4-bd5105fee152" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/42169872-9a41-40e1-bd5e-0e90c66af895" width="1000"/>
 </p>
-
 ---
 
 # 🧠 Problem Statement
