@@ -14,7 +14,6 @@ https://drive.google.com/file/d/16UdHGC3X0eZ8gDn9ZJirS9YxukFV769p/view?usp=shari
 ---
 
 # 📱 Application Screenshot
-# 📱 Application Screenshot
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ace9341-664c-421e-bbf4-bd5105fee152" width="100%"/>
