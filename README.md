@@ -166,4 +166,4 @@ All user progress is securely stored using Firebase.
 
 # 👨‍💻 Developer
 
-**Ramya Dosapadula**
+**SATYA SAI DEVI ARUMILLI**
